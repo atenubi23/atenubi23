@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atenubi23
+- 👋 Hi, I’m @atenubi23, aka Mitchi Santos
 - 👀 I’m interested in drawing small illustrations
 - 🌱 I’m currently learning C++, Kotlin and Python
 - 💞️ I’m looking to collaborate on ...
